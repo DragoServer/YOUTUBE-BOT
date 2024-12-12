@@ -23,7 +23,7 @@ How To Use
     <img src="http://ForTheBadge.com/images/badges/made-with-python.svg">
     
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/hbbots/YOUTUBE-BOT)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DragoServer/YOUTUBE-BOT)
     
     
 
